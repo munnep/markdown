@@ -17,9 +17,9 @@ markdown practice
 
 ## Tables
 
-| example   | description                                    | links                                                                          |
+| example   | description                                    | details                                                                          |
 | --------- | ---------------------------------------------- | ------------------------------------------------------------------------------ |
-| google    | search engine                                  | [www.google.com](https://www.google.com)                                               |
+| google    | search engine link                               | [www.google.com](https://www.google.com)                                               |
 | picture   | use a picture in a table                       | ![](media/2021-10-13-15-17-12.png)                                             |
 | picture 2 | use a picture in a table that you can click on | [![cat](media/2021-10-13-15-32-21.png)](https://www.imdb.com/title/tt5697572/) |
 | picture 3| link a picture from another website| ![funny dog](https://static.boredpanda.com/blog/wp-content/uploads/2021/03/funny-dogs-extra-skin-stretchy-faces-coverimage.jpg)
