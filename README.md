@@ -55,6 +55,4 @@ I never used the quote someone syntax before
 > Are you sure for 1000 euro's? 
 
 ## emoji's 
-
-But this one is on github as well
 I ate a sandwich with :egg:
